@@ -1,0 +1,14 @@
+# Renan Sposito Beltrami — Psicólogo CRP 06/123667
+
+Site profissional de Renan Sposito Beltrami, psicólogo em São Paulo.
+
+## Áreas de atuação
+- Psicoterapia de orientação psicanalítica: https://renanspositobeltrami.netlify.app/psicoterapia.html
+- Terapia de casal: https://renanspositobeltrami.netlify.app/terapia-de-casal.html
+- Psicologia jurídica e forense, perícia e assistência técnica judicial: https://renanspositobeltrami.netlify.app/psicologia-juridica.html
+- Avaliação psicológica: https://renanspositobeltrami.netlify.app/avaliacao-psicologica.html
+
+## Contato
+- Site: https://renanspositobeltrami.netlify.app/
+- E-mail: renan.sposito@outlook.com
+- CRP: 06/123667
