@@ -8,6 +8,9 @@ Site profissional de Renan Sposito Beltrami, psicólogo em São Paulo.
 - Psicologia jurídica e forense, perícia e assistência técnica judicial: https://renanspositobeltrami.netlify.app/psicologia-juridica.html
 - Avaliação psicológica: https://renanspositobeltrami.netlify.app/avaliacao-psicologica.html
 
+## Conteúdo editorial
+- Análises Sociais: https://renanspositobeltrami.netlify.app/analises-sociais.html
+
 ## Contato
 - Site: https://renanspositobeltrami.netlify.app/
 - E-mail: renan.sposito@outlook.com
